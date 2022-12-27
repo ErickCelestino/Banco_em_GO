@@ -1,0 +1,5 @@
+{
+    "go.toolsEnvVars": {
+        "GOROOT": "/usr/lib/go-1.19/src"
+    }
+}
